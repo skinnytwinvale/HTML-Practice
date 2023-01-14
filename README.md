@@ -16,4 +16,7 @@ If you've never seen HTML before, one of the first things you'll notice is proba
 
 To bring up the basic structure of the HTML page, type in the ! and press enter and it should come up automatically.
 
+Notice that sometimes elements are nested inside of other elements. meta and title are inside of head, h1 is inside of body, and everything is inside of html. These are commonly referred to in the language of parents and children: we say that the h1 element is a child of the body element, for example, and that the body element is the parent of the h1 element. Elements with the same parent are called siblings; the meta and title tags are siblings in the document above.
+In fact, you can think of the entire structure of an HTML document in terms of these relationships. From this perspective, the document looks like a tree, with parent nodes higher up on the tree, and child nodes down below. 
+
 Link to my HTML page: http://127.0.0.1:5500/my_first_html_page.html
