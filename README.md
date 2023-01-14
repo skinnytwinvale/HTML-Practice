@@ -38,7 +38,7 @@ Our sample HTML page contains a number of elements. Some of those elements conta
   
 ### Headings, Paragraphs, Breaks and horizontal rows
   
-We have heading tags <h1></h1>, <h2></h2>, ... <h6></h6> (h1 tags are the largest, h6 are the smallest), paragraph tags <p></p>, line breaks <br> (this tag does not close), and horizontal rows <hr> (this tag does not close). You'll commonly see heading tags used for titles of pages and sections, while p tags are used for larger chunks of text.
+We have heading tags <h1></h1> through <h6></h6> (h1 tags are the largest, h6 are the smallest), paragraph tags <p></p>, line breaks <br> (this tag does not close), and horizontal rows <hr> (this tag does not close). You'll commonly see heading tags used for titles of pages and sections, while p tags are used for larger chunks of text.
 
   
 Link to my HTML page: http://127.0.0.1:5500/my_first_html_page.html
